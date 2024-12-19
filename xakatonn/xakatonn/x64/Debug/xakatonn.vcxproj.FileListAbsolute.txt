@@ -1,0 +1,3 @@
+C:\Users\mubin\source\repos\xakatonn\xakatonn\x64\Debug\xakatonn.vcxproj.AssemblyReference.cache
+C:\Users\mubin\source\repos\xakatonn\xakatonn\x64\Debug\xakatonn.MyForm.resources
+C:\Users\mubin\source\repos\xakatonn\xakatonn\x64\Debug\xakatonn.vcxproj.GenerateResource.cache
